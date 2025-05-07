@@ -13,3 +13,6 @@ Task 2: Google Colab File
 
 The Word file and the Google Colab file link are enclosed.
 
+Week 2 Assessment--
+
+The solution is present in the crop_recommendation.ipynb file

@@ -16,3 +16,4 @@ The Word file and the Google Colab file link are enclosed.
 Week 2 Assessment--
 
 The solution is present in the crop_recommendation.ipynb file
+Here is the link to see the whole ipynb file clearly: http://localhost:8888/notebooks/crop_recommendation.ipynb
